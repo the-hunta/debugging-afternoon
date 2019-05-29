@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import './StoreFront.css';
+import React, { Component } from "react";
+import "./StoreFront.css";
 
 class StoreFront extends Component {
   render() {
